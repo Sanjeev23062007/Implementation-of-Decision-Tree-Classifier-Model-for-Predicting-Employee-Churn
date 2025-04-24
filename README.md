@@ -17,8 +17,8 @@ Step 4: Predict and Evaluate
 ```
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: SUDHARSANAN U
-RegisterNumber: 212224230276
+Developed by: Sanjeev a
+RegisterNumber: 212224230246
 ```
 ```
 import pandas as pd
@@ -74,7 +74,6 @@ plt.show()
 
 
 ## Output:
-![decision tree classifier model](sam.png)
 
 ![image](https://github.com/user-attachments/assets/9874bdd2-b7b3-4f2f-b3d9-89c55d881b88)
 
